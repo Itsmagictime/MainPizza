@@ -1,11 +1,6 @@
-//
-//  AppDelegate.swift
-//  MainPizza
-//
-//  Created by Элина Вишневская🍒 on 03.04.2023.
-//
-
 import UIKit
+
+let screen = UIScreen.main.bounds
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

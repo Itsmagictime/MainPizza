@@ -1,0 +1,56 @@
+[
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/159a80338bf7e2745d8efb3e3a8e05ff.webp",
+        "name": "Пепперони Грин",
+        "detail": "Пикантная пепперони, сладкий перец, Моцарелла с фирменным томатным соусом",
+        "price": "от 399"
+    },
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/717c70cd1e5ddce84459cd528dd845c9.webp",
+        "name": "Цыплёнок Грин",
+        "detail": "Сочное куриное филе,сыр моцарелла, сладкий перец, соус «Чесночный рэнч», чеснок и томаты.",
+        "price": "от 399"
+    },
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/Pepperoni-traditional.webp",
+        "name": "Пепперони",
+        "detail": "Американская классика с пикантной пепперони, Моцареллой и фирменным томатным соусом",
+        "price": "от 449"
+    },
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/aeef9f2ab0ef2382a80b591fd52e4258.webp",
+        "name": "Дюшеc сет",
+        "detail": "Пепперони 30 см, Мексиканская 30 см, Русский дар Дюшес 2 л",
+        "price": "от 999"
+    },
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/2e33dd47a3c2fef282004b8c9945097c.webp",
+        "name": "Магнат сет",
+        "detail": "Пицца-половинки 35см Пепперони/Капричиоза и 2 эскимо Магнат",
+        "price": "от 999"
+    },
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/8dac0f0f5c7d52c5c8ae5b3c24fe6c65.webp",
+        "name": "Сырники",
+        "detail": "Нежные сырники из печи с соусом на выбор",
+        "price": "от 189"
+    },
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/38d0396a2b7b698569d14d483c478cff.webp",
+        "name": "Орео скроллы",
+        "detail": "Роллы с печеньем Орео, сливочным сыром и нежной сахарной глазурью",
+        "price": "от 389"
+    },
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/037776385d5c44380585bd622ea002d3.webp",
+        "name": "Сок J7 Апельсиновый",
+        "detail": "",
+        "price": "от 229"
+    },
+    {
+        "image": "https://cdn.papajohns.ru//images/catalog/thumbs/full/082b8587b109b35d57f405dcc2834a5d.webp",
+        "name": "Evervess Биттер-Лимон",
+        "detail": "",
+        "price": "от 119"
+    }
+]
